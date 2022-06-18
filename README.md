@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [](https://enchanting-manager.netlify.app/)
+- Live Site URL: [live site](https://enchanting-manager.netlify.app/)
 
 ## My process
 
