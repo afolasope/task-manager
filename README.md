@@ -1,4 +1,3 @@
-
 This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW).
 
 ## Table of contents
@@ -11,8 +10,6 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
   - [Built with](#built-with)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-
-
 
 ## Overview
 
@@ -33,10 +30,8 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
 - Live Site URL: [](https://enchanting-manager.netlify.app/)
 
 ## My process
@@ -48,7 +43,6 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-
 
 ### Continued development
 
